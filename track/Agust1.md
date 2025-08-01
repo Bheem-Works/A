@@ -13,7 +13,7 @@ So my friend the dhami called me for some reason and that reason is he want me t
 Now i am not ready i feel quite boring while doing the fron end thing's it feels so boring to me. But some how i have to do that 
 short of thing's and complete that project. 
 
-**Breaking thing's** -> i just remeber the glimpse about that how can she cheat me? do she love me? why did she done that. Can i live like this having this kind of trust and the love. don't know what is it. I have to be her supported person but somehow,  
+**Breaking points** -> i just remeber the glimpse about that how can she cheat me? do she love me? why did she done that. Can i live like this having this kind of trust and the love. don't know what is it. I have to be her supported person but somehow,  
 i can't forgive her for that kind of mistakes. The thing's alway's going to heart me is that how she can be able to cheat me.?? 
 How she can do that. How she can cheat me still having realtions  with me. I  just never ever forget the way she cheated 
 i think i  also need to do that. And then i will be also in that place where she were . And then i will also have  some regrets upon that  thing's then it will be fine she also have to forgive me for that big mistakes. I don't want to hurt her by doing that but it is not easy for me. To forget that cheating thing's until i do that thing's. This is the biggest problem that 
