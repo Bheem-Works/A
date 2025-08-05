@@ -11,3 +11,8 @@ nepali (10 minutes) done;
 Account (50 minutes) done; 
 English(100 minutes) done; 
 computer()
+
+## Agust 5th - tuesday; 
+computer(50 minutes) done; 
+Account (50 minutes) done; 
+economics(50 minutes) done; 
