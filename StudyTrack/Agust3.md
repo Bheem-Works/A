@@ -16,3 +16,6 @@ computer()
 computer(50 minutes) done; 
 Account (50 minutes) done; 
 economics(50 minutes) done; 
+economics(20 minutes) done; 
+social(39 minutes) done;
+nepali(not yet)...; 
