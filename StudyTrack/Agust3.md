@@ -21,5 +21,5 @@ social(39 minutes) done;
 nepali(not yet)...; 
 
 ## Aguest 6th - wednesday; 
-computer (60 minutes) done' 
-Account ()
+computer (60 minutes) done; 
+Account (50 minutest) done; 
