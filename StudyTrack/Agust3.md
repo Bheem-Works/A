@@ -19,3 +19,7 @@ economics(50 minutes) done;
 economics(20 minutes) done; 
 social(39 minutes) done;
 nepali(not yet)...; 
+
+## Aguest 6th - wednesday; 
+computer (60 minutes) done' 
+Account ()
