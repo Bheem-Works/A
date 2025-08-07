@@ -28,3 +28,4 @@ Account (50 minutest) done;
 computer (60 minutes) done; 
 Account (50 minutes) done; 
 economics(50 minutes) done; 
+english (25 minutes) done; 
