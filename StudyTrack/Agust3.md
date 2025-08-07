@@ -23,3 +23,8 @@ nepali(not yet)...;
 ## Aguest 6th - wednesday; 
 computer (60 minutes) done; 
 Account (50 minutest) done; 
+
+## Agust 7th - thrusday; 
+computer (60 minutes) done; 
+Account (50 minutes) done; 
+economics(50 minutes) done; 
