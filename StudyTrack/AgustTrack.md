@@ -31,4 +31,4 @@ economics(50 minutes) done;
 english (25 minutes) done; 
 
 ## Agust 8th - friday; 
-economics();
+economics(50 minutes); done; 
