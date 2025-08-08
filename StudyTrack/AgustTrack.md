@@ -33,3 +33,4 @@ english (25 minutes) done;
 ## Agust 8th - friday; 
 economics(50 minutes); done; 
 account(50 minutes) done; 
+english(20 minutes) done; 
