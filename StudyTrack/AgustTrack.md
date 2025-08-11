@@ -34,3 +34,6 @@ english (25 minutes) done;
 economics(50 minutes); done; 
 account(50 minutes) done; 
 english(20 minutes) done; 
+
+## Augus 9th - skipped;
+## Agust 10th -skipped;
