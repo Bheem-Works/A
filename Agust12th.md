@@ -10,3 +10,7 @@ I have a scar on my eyes and it's hurting me much more. Well i know about the wo
 
 I really need to change and i need to read that's it i need to forget some thin'gs and some one if it keeps hurting me. 
 From tommorow the study is going to be on. 
+
+
+So, let's upload the folder and the file to the drive alright! 
+I think maile chai drive ma chai upload grnu prdaina kina kih drive ma upload vayo vane.
