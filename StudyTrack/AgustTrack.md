@@ -41,4 +41,4 @@ english(20 minutes) done;
 ## Agusut 12th -skipped;
 
 ## Agust 13th - wednesday;
-Computer() 
+Computer(50 minutes); done;  
