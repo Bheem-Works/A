@@ -38,3 +38,7 @@ english(20 minutes) done;
 ## Augus 9th - skipped;
 ## Agust 10th -skipped;
 ## August 11th -skipped;
+## Agusut 12th -skipped;
+
+## Agust 13th - wednesday;
+Computer() 
