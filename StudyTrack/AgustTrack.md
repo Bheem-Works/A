@@ -43,3 +43,6 @@ english(20 minutes) done;
 ## Agust 13th - wednesday;
 Computer(50 minutes); done;  
 Account(30 minutes) done;
+
+## August 15th - firday; 
+all skipped; 
