@@ -10,4 +10,13 @@ everthing's is fine let me share the screen shot of it wait. hahaha
 
 ![important Ss](../payement.png)
 
-So  yeh this the ss(screen shot) of the image. And yeh this could be my  memories  and  the proff you can also say something's like that. hahah
+So  yeh this the ss(screen shot) of the image. And yeh this could be my  memories  and  the proff you can also say something's like that. hahaha;
+
+Today day was pretty fine and i have lot's of thing's to do. 
+From tommorow i have to start many thing's and i need to back and be consitent and i need to read okay. 
+And more much more thing's that i need to do right. I will keep going forward. 
+Well my mistake is today that i have smoked but for now only.
+I just wanted to and i was so tense.
+
+
+``At last by seee  yaaa! i willl improve my self and make my family happy and proud. Bye!👋``;
