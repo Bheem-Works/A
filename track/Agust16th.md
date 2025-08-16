@@ -8,14 +8,6 @@ and they are actually mean valuable for them. don't know i mean valueable for th
 everthing's is fine let me share the screen shot of it wait. hahaha
 
 
-To import an image in your markdown file, use the following syntax:
+![important Ss](../payement.png)
 
-```markdown
-![Alt text]()
-```
-
-For example, if your screenshot is saved as `screenshot.png` in the same folder:
-
-```markdown
-![Screenshot of payment](screenshot.png)
-```
+So  yeh this the ss(screen shot) of the image. And yeh this could be my  memories  and  the proff you can also say something's like that. hahah
