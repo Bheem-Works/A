@@ -6,3 +6,16 @@ Well i alwasy had a dream one day i will earn and that i will give somethgn's to
 there are many peoples that i have to give the gift for them. They also have helped me alot in my time. 
 and they are actually mean valuable for them. don't know i mean valueable for them or not but yeh to mean to me.
 everthing's is fine let me share the screen shot of it wait. hahaha
+
+
+To import an image in your markdown file, use the following syntax:
+
+```markdown
+![Alt text]()
+```
+
+For example, if your screenshot is saved as `screenshot.png` in the same folder:
+
+```markdown
+![Screenshot of payment](screenshot.png)
+```
