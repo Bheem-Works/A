@@ -46,3 +46,9 @@ Account(30 minutes) done;
 
 ## August 15th - firday; 
 all skipped; 
+
+## August 19th - Tuesday; 
+Nepali :, Social: 
+Account: 
+Economics:
+Computer:
