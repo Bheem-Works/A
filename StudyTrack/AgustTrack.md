@@ -50,5 +50,5 @@ all skipped;
 ## August 19th - Tuesday; 
 Nepali : 30 minutes, Social:20 minutes;  
 Account: 
-Economics:
+Economics: 50 minutes; 
 Computer:
