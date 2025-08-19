@@ -48,7 +48,7 @@ Account(30 minutes) done;
 all skipped; 
 
 ## August 19th - Tuesday; 
-Nepali :, Social: 
+Nepali : 30 minutes, Social:20 minutes;  
 Account: 
 Economics:
 Computer:
