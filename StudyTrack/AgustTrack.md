@@ -51,4 +51,11 @@ all skipped;
 Nepali : 30 minutes, Social:20 minutes;  
 Account: 50 minutes,
 Economics: 50 minutes; 
+Computer: yeet;;;
+
+## August 20th - Wednesday;
+Egnlish: 
+Economics:
+Nepali/social:
 Computer:
+Account: 
