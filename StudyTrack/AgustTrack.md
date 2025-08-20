@@ -54,8 +54,8 @@ Economics: 50 minutes;
 Computer: yeet;;;
 
 ## August 20th - Wednesday;
-Egnlish: 
-Economics:
-Nepali/social:
-Computer:
-Account: 
+Egnlish: 20 minutes
+Economics: none; 
+Nepali/social: none; 
+Computer: none;
+Account: none;
