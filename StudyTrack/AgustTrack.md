@@ -54,7 +54,7 @@ Economics: 50 minutes;
 Computer: yeet;;;
 
 ## August 20th - Wednesday;
-Egnlish: 20 minutes
+Egnlish: 50 minutes
 Economics: none; 
 Nepali/social: none; 
 Computer: none;
