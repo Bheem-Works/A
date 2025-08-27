@@ -17,3 +17,5 @@ CRS(cost reconilation statement) cha well. I found this as a easy chapter aja pa
 
 Moral of the story -> You need to think more in the critical situation sayad pen na leko vaie class ma kasaiko mageko vaie ma vauthye hola.Sayad ma brush ra bath na gako viae ma vauthye hola. All stuff tyai ho sochina yo gare pachi chai k hunca tyeti but yeh that's it.
 As a Vim => i would say alright👍. Next time i will not do this mistakes. And i will be more careful. Today i learned kind of new stuff. 
+
+Well aja feri samdhi le ustai behura gareko cha usle feri kapal nai purai chinde haneko cha. Purai takla haneko cha kapal pani ani dar pani ani vaye varko savai thok pani life kunai time ma uh regret grne cha malai thacha
