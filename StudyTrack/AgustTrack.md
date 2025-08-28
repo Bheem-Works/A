@@ -59,3 +59,11 @@ Economics: none;
 Nepali/social: none; 
 Computer: none;
 Account: none;
+
+# August 27th - Thursday;
+English : 50 minutes; 
+Nepali : 40 minutes; 
+Account:
+Economics:
+Social:
+Computer:
