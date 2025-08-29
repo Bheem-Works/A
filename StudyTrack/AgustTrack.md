@@ -71,11 +71,13 @@ Nepali/social: none;
 Computer: none;
 Account: none;
 
-# August 27th - Thursday;
-
+# August 28th - Thursday;
 English : 50 minutes;
 Nepali : 40 minutes;
 Account: 20 minutes;
 Economics: 10 minutes;
 Social: nooohh...
 Computer: 20 minutes;
+
+# August 29th - friday;
+Typing - 30 minutes; 
