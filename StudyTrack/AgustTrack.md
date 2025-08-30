@@ -81,3 +81,6 @@ Computer: 20 minutes;
 
 # August 29th - friday;
 Typing - 30 minutes; 
+
+# August 30th - saturday; 
+English - 30 minutes; 
