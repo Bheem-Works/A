@@ -88,5 +88,5 @@ Account - 50 minutes;
 Economics - 50 minutes; 
 Computers - 40 minutes; 
 Typing - 40 minutes
-Coding Projects -
+Coding Projects - Xaina yaar kati choti skipp matra grnu yaar ma pani afai nai waakaa lage sake.
 Class -- Dsa
