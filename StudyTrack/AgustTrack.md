@@ -86,3 +86,7 @@ Typing - 30 minutes;
 English - 30 minutes; 
 Account - 50 minutes; 
 Economics - 50 minutes; 
+Computers - 40 minutes; 
+Typing - 
+Coding Projects -
+Class -- Dsa
