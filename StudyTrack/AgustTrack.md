@@ -84,3 +84,5 @@ Typing - 30 minutes;
 
 # August 30th - saturday; 
 English - 30 minutes; 
+Account - 50 minutes; 
+Economics - 50 minutes; 
