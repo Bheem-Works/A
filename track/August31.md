@@ -6,4 +6,10 @@ So ma suru dekhi kehi kura grnu chai chaye.
 So first thing's that i want to talk about is. 
 Ma paila xito na xito uthe lagvagh tyestai 6:30 tirw nai vanum nah well, tyetro baje uthe because there were some works tyo chai grnu parne thyo right. Ani tyesh pachi biratngar gaye hami me and my mom hami chai feri 
 bus ma gako ho biratnagar chai. Well, Dherai nai time consuming ani maalia man na parne ringata lagne jstai 
-pani hunu skcha jaile pani. Jaso taso enter gare.
+pani hunu skcha jaile pani. Jaso taso enter gare.Entry gren bitikai achank feri k k viddh over nai thyo 
+kehi mistakes haru pani garyo so ma tyo mistake lai recognize pani grne nai chu ani tyeshlai fixed grne pani kosis grne nai chu. 
+
+--- Let's talk about the Hospital thing's well hamilia chai mom ra ma hospital chai lagvagh tyestai 
+8 baje tirw nai xirim bhnda hunca. Tyesh pachi token line thau ma token lim but tyako difficulty chai tyo token linu ko lagi dherai nai wait grnu paryo hamile ani feri tyo token system over nai delay vako ani arko toekn chai xito vako karan le maile pani feri gaiera arko anfai auta token leko Section,(a,b,b) yesto garerw 
+tin ota token haru chai raheko racha. And balaa tala palo ayo and we move to the upward ja kih usle opd k  
+bhndai thyo
