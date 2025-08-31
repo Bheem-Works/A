@@ -12,4 +12,11 @@ kehi mistakes haru pani garyo so ma tyo mistake lai recognize pani grne nai chu 
 --- Let's talk about the Hospital thing's well hamilia chai mom ra ma hospital chai lagvagh tyestai 
 8 baje tirw nai xirim bhnda hunca. Tyesh pachi token line thau ma token lim but tyako difficulty chai tyo token linu ko lagi dherai nai wait grnu paryo hamile ani feri tyo token system over nai delay vako ani arko toekn chai xito vako karan le maile pani feri gaiera arko anfai auta token leko Section,(a,b,b) yesto garerw 
 tin ota token haru chai raheko racha. And balaa tala palo ayo and we move to the upward ja kih usle opd k  
-bhndai thyo
+bhndai thyo.
+
+[Abo aru kunai din chai maajale kura grchu aile lai ma ekdam galeko chu so i just need to sleep i think so. 
+I am kind of tired tyai travel ra waiting grda grdai nai hola.]
+
+The funny thing's :- Auta indian women thyo ani tyo women le chai khaana ya khanu milcha vanera maalai sodhekoko thyo ani mailae chai malai majale bolnu audaina vane yo ishara type mai vane and usle chai
+feri malai dekhaudai "Bechara ko bolne nahi aata" Yeto vano k malai. Malai afalai ksto mero maan nai 
+ghinnah! Over nai akward feel vayo tyo bela chai. 
