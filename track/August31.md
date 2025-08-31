@@ -1,0 +1,2 @@
+So, Yeh August 31 well today. I went to the hospital and i don't want to say much more thing's about today because i am so 
+bored an tired today and don't want to do anything's but their is thing's that i have to do. right so i have to do it. 
