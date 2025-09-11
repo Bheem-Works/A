@@ -71,6 +71,7 @@ Nepali/social: none;
 Computer: none;
 Account: none;
 
+<<<<<<< Updated upstream
 # August 28th - Thursday;
 English : 50 minutes;
 Nepali : 40 minutes;
@@ -90,3 +91,13 @@ Computers - 40 minutes;
 Typing - 40 minutes
 Coding Projects - Xaina yaar kati choti skipp matra grnu yaar ma pani afai nai waakaa lage sake.
 Class -- Dsa
+=======
+# August 27th - Thursday;
+
+English : 50 minutes;
+Nepali : 40 minutes;
+Account:
+Economics:
+Social:
+Computer:
+>>>>>>> Stashed changes
