@@ -8,3 +8,7 @@ GRATITUDE : [
 REFLECTION : [
     I DO HAVE THE MANY MANY REFLECTION ON MY SELF; 
 ]
+
+freewritting : [
+    that is written in the copy 
+]
