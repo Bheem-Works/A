@@ -12,3 +12,7 @@ REFLECTION : [
 freewritting : [
     that is written in the copy 
 ]
+Event : [
+    toay i went for the thupa; 
+    and the js mock interview repo
+]
