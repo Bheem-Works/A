@@ -17,3 +17,5 @@ INSIPRATION : [
 ]
 
 This day the heavey rain fall we got the tv messed up 
+
+The rain and the even can't be written and hand thng's are not done 
