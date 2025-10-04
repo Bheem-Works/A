@@ -15,3 +15,5 @@ REFLECTION : [
 INSIPRATION : [
     SUIKA AND THE DEDICATION THING'S. 
 ]
+
+This day the heavey rain fall we got the tv messed up 
