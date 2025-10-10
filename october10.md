@@ -6,5 +6,6 @@ Todo list  {
 
 Event : [
     daice 
-    
+    chatpate;
+    looss;
 ]
