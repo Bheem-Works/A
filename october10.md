@@ -9,3 +9,5 @@ Event : [
     chatpate;
     looss;
 ]
+
+typeracer for 20 minutes;
