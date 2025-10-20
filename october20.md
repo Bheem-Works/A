@@ -7,3 +7,5 @@ todolist:[
  event : [
     laxmi pooja and eaten the chatpate
  ]
+
+ free up space 
