@@ -9,3 +9,4 @@ todolist:[
  ]
 
  free up space 
+ downloaded pubg but like as i said the fate is not good 
