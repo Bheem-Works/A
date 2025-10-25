@@ -5,3 +5,6 @@ counting the day waiting for the more pain.
 Don't take it more. 
 don't think i can do it more. 
 scare of loosing people
+
+
+The day is not nice it is just a bad day. 
