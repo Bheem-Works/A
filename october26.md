@@ -13,3 +13,5 @@ I see my self and i want to i ask my self why i can't do anythings ?
 
 
 Third commit now i am playing the pubg for no reason but it is fun and it is relaxing 
+
+The situtation is just so tought and we can not do anything/s
