@@ -21,3 +21,5 @@ while True:
     print()
 
     user_input = input("Enter the task").strip()
+
+Let me paste it to the here. 
