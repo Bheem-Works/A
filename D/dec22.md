@@ -12,3 +12,6 @@ challenge part : I am trying to control my emotions and the facial expression an
 
 I have been meditation a quite and i found my self i can control my emotions and the angerness and the jealousy and i don't think i am happy  but i think i am peace right now. 
 
+
+The Meditation goal will be around for an 30 minutes per day; 
+And let's see how much can i improve and control my self and build a patience for my self. 
