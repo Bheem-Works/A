@@ -1,3 +1,18 @@
+# October15
+
+
+## Summary
+
+- Date : wednesday 15;
+
+## Highlights
+
+- **Date : wednesday 15; 
+
+hyaa kati todo list lekhnu.**
+- **hyaa kati choti alchi garnu.**
+
+Tags: #journal
 Date : wednesday 15; 
 
 hyaa kati todo list lekhnu. 

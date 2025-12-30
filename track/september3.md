@@ -1,3 +1,24 @@
+# September3
+
+
+## Summary
+
+- 📅 Date: [September - 3]
+
+## Highlights
+
+- **📅 Date: [September - 3]
+
+☑ To-Do List:
+-[complete homework]
+- [Type,jounral]
+- [Complete dsa and touch the dom] 
+- [Can i save it.**
+- **Write for 30 minutes	]
+📝 Reflection:
+[Mrs.**
+
+Tags: #journal
 📅 Date: [September - 3]
 
 ☑ To-Do List:
@@ -10,5 +31,3 @@
 🙏 Gratitude:
 [Gradiute about that my mis is notback]
 [🥲]
-
-

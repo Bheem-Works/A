@@ -1,3 +1,19 @@
+# August31
+
+
+## Summary
+
+- So, Yeh August 31 well today.
+- I went to the hospital and i don't want to say much more thing's about today because i am so bored an tired today and don't want to do anything's but their is thing's that i have to do.
+- right so i have to do it.
+
+## Highlights
+
+- **So, Yeh August 31 well today.**
+- **I went to the hospital and i don't want to say much more thing's about today because i am so 
+bored an tired today and don't want to do anything's but their is thing's that i have to do.**
+
+Tags: #journal
 So, Yeh August 31 well today. I went to the hospital and i don't want to say much more thing's about today because i am so 
 bored an tired today and don't want to do anything's but their is thing's that i have to do. right so i have to do it. 
 
@@ -19,4 +35,4 @@ I am kind of tired tyai travel ra waiting grda grdai nai hola.]
 
 The funny thing's :- Auta indian women thyo ani tyo women le chai khaana ya khanu milcha vanera maalai sodhekoko thyo ani mailae chai malai majale bolnu audaina vane yo ishara type mai vane and usle chai
 feri malai dekhaudai "Bechara ko bolne nahi aata" Yeto vano k malai. Malai afalai ksto mero maan nai 
-ghinnah! Over nai akward feel vayo tyo bela chai. 
+ghinnah! Over nai akward feel vayo tyo bela chai.

@@ -1,5 +1,20 @@
 #### Date : July 19, Day(tuesday); 
 
+
+## Summary
+
+- ## Descriptions about day: The Descriptions about the day is that today day was not quite nice.
+- <br /> I have changed a lot and i needed to changed for my self.
+- I have to regain my selfrespect.
+- The way i broke my swear the way i broke my people trust.
+
+## Highlights
+
+- **## Event** (let's talk about the event): 
+Event but in very short -: My heart got broke as much as i love her, i smoked, i stop caring thing's, i broke my consistent routine,
+making parents dissapoint, not goint college, not reading like this all stuff..**
+
+Tags: #journal
 ## Descriptions about day: 
 The Descriptions about the day is that today day was not quite nice. <br /> 
 I have changed a lot and i needed to changed for my self. I have to regain my selfrespect. 

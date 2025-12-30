@@ -1,3 +1,15 @@
+# September2
+
+
+## Summary
+
+- 📅 Date: [September - 2]
+
+## Highlights
+
+- **The event : Priyashu has messed up someone bag and i tried to save him.**
+
+Tags: #journal
 📅 Date: [September - 2]
 
 ☑ To-Do List:
@@ -21,4 +33,4 @@ Gift hampor and the hair conditioner and some of the thing’s it was pretty fun
 The event : Priyashu has messed up someone bag and i tried to save him. And kind of afraid am i going to be catched  ? or not don’t have any idea of it. But it’s fine
 I will see it tomorrow well don’t know where is she my lady. I don’t know is she cheating on me or what she is doing ? Why didn’t see has come online
 But i always feel like i should have stop but the thought’s and the memories never let me do that. I don’t want to be but treating like this i also don’t want to treated like this. 
-By the way’s it’s alright and i am fine. Well i have to study by see yah. And yeh i am still playing chess okay. 
+By the way’s it’s alright and i am fine. Well i have to study by see yah. And yeh i am still playing chess okay.

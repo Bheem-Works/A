@@ -1,3 +1,20 @@
+# August27
+
+
+## Summary
+
+- Date: August 27 Day:Wednesday
+
+## Highlights
+
+- **Date: August 27
+Day:Wednesday 
+
+
+Today day, I wanna talk about something's funny today at the first phase of the paragraph.**
+- **In roman nepali because i want to explain it clearly.**
+
+Tags: #journal
 Date: August 27
 Day:Wednesday 
 

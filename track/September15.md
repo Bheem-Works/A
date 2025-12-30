@@ -1,3 +1,23 @@
+# September15
+
+
+## Summary
+
+- 📅 Date: [September - 15]
+
+## Highlights
+
+- **From here it is : 
+" Initialize vim-plug
+call plug#begin('~/.vim/plugged')
+Plug 'neoclide/coc.nvim', {'branch': 'release'}  " Auto-completion and LSP for JS/TS
+Plug 'preservim/nerdtree'                       " Tree-style file explorer
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }  " Fuzzy finder
+Plug 'junegunn/fzf.vim'                         " Vim integration for fzf
+Plug 'pangloss/vim-javascript'                  " Enhanced JS syntax highlighting
+Plug 'mxw/v**
+
+Tags: #journal
 📅 Date: [September - 15]
 
 [Tommorow is the day]; 
@@ -191,4 +211,3 @@ function! CheckBackSpace() abort
   let col = col('.') - 1
   return !col || getline('.')[col - 1]  =~# '\s'
 end
-

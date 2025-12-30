@@ -1,3 +1,20 @@
+# Agust16th
+
+
+## Summary
+
+- Okay so i am going to get paid; And the paying amount is like the 2500.
+
+## Highlights
+
+- **hahaha
+
+
+![important Ss](../payement.png)
+
+So  yeh this the ss(screen shot) of the image.**
+
+Tags: #journal
 Okay so i am going to get paid; 
 And the paying amount is like the 2500.
 

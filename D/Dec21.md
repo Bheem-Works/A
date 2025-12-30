@@ -1,3 +1,17 @@
+# Dec21
+
+
+## Summary
+
+- Date : december 21
+
+## Highlights
+
+- **]
+
+note : still need to do some of more research!**
+
+Tags: #journal
 Date : december 21 
 
 Thing's done : [

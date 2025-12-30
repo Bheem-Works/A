@@ -1,3 +1,38 @@
+# Nov2
+
+
+## Summary
+
+- Date : it is nov2
+
+## Highlights
+
+- **Date : it is nov2 
+
+
+todolist:[
+  tyai python ko ho aja chai grnai parne
+
+]
+
+oh yesh msg ayena note chI ayo feri dekehe feri maan tudo ma kai pani grnu skdinw k vanu mah
+
+
+
+okay here i need to push the nvim command and in future i can grab it hope i am not missing anyothers thing's.**
+- **" Initialize vim-plug
+call plug#begin('~/.vim/plugged')
+Plug 'neoclide/coc.nvim', {'branch': 'release'}  " Auto-completion and LSP for JS/TS
+Plug 'preservim/nerdtree'                       " Tree-style file explorer
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }  " Fuzzy finder
+Plug 'junegunn/fzf.vim'                         " Vim integration for fzf
+Plug 'pangloss/vim-javascript'                  " Enhanced JS syntax highlighting
+Plug 'mxw/vim-jsx'                              " JSX/TSX support for React
+Plug 'tpope/vim-commentary'                     " Comment code with gcc or gc
+Plug 'jiangmiao/auto-pairs'                     " Auto-close brackets, quotes
+Plug 'neoclide/coc-snippets'**
+
+Tags: #journal
 Date : it is nov2 
 
 
@@ -189,5 +224,3 @@ function! CheckBackSpace() abort
   let col = col('.') - 1
   return !col || getline('.')[col - 1]  =~# '\s'
 endfunctionT
-
-

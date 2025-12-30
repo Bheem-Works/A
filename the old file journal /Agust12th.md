@@ -1,4 +1,18 @@
 # August 12 - Tuesday; 
+
+## Summary
+
+- Today was kind of good day and yeh i am pretty fine but there is many thin'gs i hate to say.
+- let's clear the mood.
+- I really want to make my parent prouds and other's things.
+- Well i don't know what to do.
+
+## Highlights
+
+- **Today was kind of good day and yeh i am pretty fine but there is many thin'gs i hate to say.**
+- **let's clear the mood.**
+
+Tags: #journal
 Today was kind of good day and yeh i am pretty fine but there is many thin'gs i hate to say. 
 let's clear the mood.
 I really want to make my parent prouds and other's things. Well i don't know what to do. BUt i hope

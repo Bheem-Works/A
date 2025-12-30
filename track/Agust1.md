@@ -1,5 +1,19 @@
 # Date - Agust One (thursday);
 
+
+## Summary
+
+- Start day : Today day was nice.
+- but there is a embarssing thing's that has happened with me.
+- and i have to told that imbarssing thing's.
+- So i carried  a comb with  my self in my bag.
+
+## Highlights
+
+- **Start day : Today day was nice.**
+- **but there is a embarssing thing's that has happened with me.**
+
+Tags: #journal
 Start day : Today day was nice. but there is a embarssing thing's that has happened with me. 
 and i have to told that imbarssing thing's. So i carried  a comb with  my self in my bag.
 And it feels so embarassing when you are carrying the comb in your bag and don't even know about it. And people will 
@@ -30,4 +44,4 @@ I also have to forget you not forgive you this time. Mero maya sadhai sacho thyo
 afule skne kura dinu skdaina ani cheat grnu skcha dhoka dinu skcha vane tyo relation ma jsto sacho maay bhayera nih kai hune wala chaina. I will still love you always but i can not accept you. I am so sorry but i have give you lot of chance but u 
 have never use that. yo man tah jhan tyo bela atlincha java tha hunca afno manche para jadai cha ani daar cha tyo tah gaye paachi yestasi galti garo vane hamro relation ko k hunca. Tyo bahira jancha ani ma chai ya ani usle ya grek galti bahira huda 
 garo bhane chai k grnu vanera. any way's desig is your ma tah sudhrincha grnu hudain vanera assh mai ho aja smw mafi deko ra 
-boleko abo grdaina vanera tra jati bhnda nih j huda nih gren vaye tha i don't have any way. thansk for supportig me. 
+boleko abo grdaina vanera tra jati bhnda nih j huda nih gren vaye tha i don't have any way. thansk for supportig me.

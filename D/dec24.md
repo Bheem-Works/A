@@ -1,3 +1,25 @@
+# Dec24
+
+
+## Summary
+
+- Date : december 24
+
+## Highlights
+
+- **Date : december 24 
+
+
+todolist : [
+    make a note; 
+]
+
+Note : 
+The story of the day; 
+[
+    So here's a funny things that I want to share with you and you may laugh you may feel it's so ridiculous so Today I was at the class And the teacher was saying to all of the student you guys must have to do a Computer note you guys have to make a computer note and I will check it on sunday Upcoming sunday, which is after five or four days But in that moment what I think I think I'm a you know quite Disciplined and quite talented in computer, and I have a great 92 out of 100 so in that time I think Do I need to make it and I also asked this sir Sir do I also need to make a computer note and sir tell me yes, of course you do Everybody has equal right to make the notes and I will take to the everyone and I will give the punishment to the everyone equally And I tell him sir I Want to make a digital note and I will send you through the github or the pdf one and I will make it As you instructed as yo**
+
+Tags: #journal
 Date : december 24 
 
 
@@ -12,4 +34,4 @@ The story of the day;
 ]
 
 
-Note: christmas is coming; haha 
+Note: christmas is coming; haha

@@ -1,3 +1,25 @@
+# Dec30
+
+
+## Summary
+
+- Date : December 30
+
+## Highlights
+
+- ***** Yesle grda malai lagcha maile mero time save pani greko chu some how malia tyestai laghca***
+
+
+ # Event 
+ - Samdhi sanga ghumnu gako thye
+ - thupa pani khako thye 
+
+
+ ``js
+    let thupa = 'aja chai khaye'
+ ``**
+
+Tags: #journal
 Date : December 30 
 
 todolist : {
@@ -16,4 +38,4 @@ todolist : {
 
  ``js
     let thupa = 'aja chai khaye'
- `` 
+ ``
