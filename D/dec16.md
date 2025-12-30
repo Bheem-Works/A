@@ -7,11 +7,11 @@
 
 ## Highlights
 
-- **Date : december 16; 
+- **Date : december 16;
 
 
 todolist : [
-    neovim plug in set; 
+    neovim plug in set;
 
     react in the neovim;
 ]
@@ -22,11 +22,11 @@ todolist : [
 and plus dherai kura pani grnu parne cha.**
 
 Tags: #journal
-Date : december 16; 
+Date : december 16;
 
 
 todolist : [
-    neovim plug in set; 
+    neovim plug in set;
 
     react in the neovim;
 ]

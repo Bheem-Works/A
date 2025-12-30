@@ -14,10 +14,10 @@ todolist  : [
 ]
 
 Event : [
-    went to the ithari 
-    have some shopping 
-    the day was quite nice 
-    and done soe python coding and chill 
+    went to the ithari
+    have some shopping
+    the day was quite nice
+    and done soe python coding and chill
 ]**
 
 Tags: #journal
@@ -28,8 +28,8 @@ todolist  : [
 ]
 
 Event : [
-    went to the ithari 
-    have some shopping 
-    the day was quite nice 
-    and done soe python coding and chill 
+    went to the ithari
+    have some shopping
+    the day was quite nice
+    and done soe python coding and chill
 ]

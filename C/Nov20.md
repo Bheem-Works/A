@@ -7,7 +7,7 @@
 
 ## Highlights
 
-- **Date : november 20; 
+- **Date : november 20;
 
 todolist : [
     bhancha nih na huda smw khapat ani vaye pachi tyai vayo ma snga
@@ -20,7 +20,7 @@ dherai nai screen time bhayecha phone nai futam jstai vayo malia tah achanak nai
 - **hahah**
 
 Tags: #journal
-Date : november 20; 
+Date : november 20;
 
 todolist : [
     bhancha nih na huda smw khapat ani vaye pachi tyai vayo ma snga

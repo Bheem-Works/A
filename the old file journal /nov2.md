@@ -7,7 +7,7 @@
 
 ## Highlights
 
-- **Date : it is nov2 
+- **Date : it is nov2
 
 
 todolist:[
@@ -33,7 +33,7 @@ Plug 'jiangmiao/auto-pairs'                     " Auto-close brackets, quotes
 Plug 'neoclide/coc-snippets'**
 
 Tags: #journal
-Date : it is nov2 
+Date : it is nov2
 
 
 todolist:[
@@ -45,7 +45,7 @@ oh yesh msg ayena note chI ayo feri dekehe feri maan tudo ma kai pani grnu skdin
 
 
 
-okay here i need to push the nvim command and in future i can grab it hope i am not missing anyothers thing's. 
+okay here i need to push the nvim command and in future i can grab it hope i am not missing anyothers thing's.
 
 " Initialize vim-plug
 call plug#begin('~/.vim/plugged')
@@ -181,7 +181,7 @@ autocmd TermClose * if !&hidden | bd | endif
 nnoremap <leader>/ :nohlsearch<CR>
 nnoremap <Leader>rr :qa!<CR>:nvim<CR>
 nnoremap x :w<CR>:!node %<CR>
-" compile and run c file 
+" compile and run c file
 command! RunC w | split | terminal gcc % -o %:r.exe && %:r.exe
 nnoremap <C-Alt-n> :RunC<CR>
 nnoremap <Leader>z :RunC<CR>

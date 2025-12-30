@@ -12,11 +12,11 @@
     k hudai cha ma bhanu nih skdina over nai depressing hudai cha malai.**
 
 Tags: #journal
-Date : december one. 
+Date : december one.
 
 
 todolist : [
-    k hudai cha ma bhanu nih skdina over nai depressing hudai cha malai. 
+    k hudai cha ma bhanu nih skdina over nai depressing hudai cha malai.
 
 ]
 

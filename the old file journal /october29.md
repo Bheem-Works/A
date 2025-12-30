@@ -7,14 +7,14 @@
 
 ## Highlights
 
-- **Date : october 29 
+- **Date : october 29
 
 Todo[
     not yet..**
 - **]**
 
 Tags: #journal
-Date : october 29 
+Date : october 29
 
 Todo[
     not yet..

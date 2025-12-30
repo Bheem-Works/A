@@ -1,4 +1,4 @@
-## Date : july thirty & Day -> wednesday; 
+## Date : july thirty & Day -> wednesday;
 
 
 ## Summary

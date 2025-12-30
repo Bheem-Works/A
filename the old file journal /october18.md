@@ -10,22 +10,22 @@
 - **Date : october 18
 
 todo [
-    python 
-    js 
+    python
+    js
     some of the practical
 ]
 
-free writting : 
+free writting :
 peot done**
 
 Tags: #journal
 Date : october 18
 
 todo [
-    python 
-    js 
+    python
+    js
     some of the practical
 ]
 
-free writting : 
+free writting :
 peot done

@@ -7,11 +7,11 @@
 
 ## Highlights
 
-- **September - 07 : Sunday; 
+- **September - 07 : Sunday;
 English - written (done the home work or the passage);
 Nepali -;ghr**
 
 Tags: #journal
-September - 07 : Sunday; 
+September - 07 : Sunday;
 English - written (done the home work or the passage);
 Nepali -;ghr

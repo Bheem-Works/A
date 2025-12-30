@@ -7,27 +7,27 @@
 
 ## Highlights
 
-- **Date : october 23 
+- **Date : october 23
 
 no to do work.**
-- **free writting is not avaibale 
+- **free writting is not avaibale
 
-no intial commit; 
-today is the via tika 
+no intial commit;
+today is the via tika
 taht's it momo and all stuff
 
 
 Tommorow will be the little bit of the code day**
 
 Tags: #journal
-Date : october 23 
+Date : october 23
 
-no to do work. 
+no to do work.
 
-free writting is not avaibale 
+free writting is not avaibale
 
-no intial commit; 
-today is the via tika 
+no intial commit;
+today is the via tika
 taht's it momo and all stuff
 
 

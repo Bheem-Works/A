@@ -12,11 +12,11 @@
 note : still need to do some of more research!**
 
 Tags: #journal
-Date : december 21 
+Date : december 21
 
 Thing's done : [
-    Make the miso highlighter by using the ai; 
-    and talk with the lisa about the ai and the career stuff. 
+    Make the miso highlighter by using the ai;
+    and talk with the lisa about the ai and the career stuff.
 ]
 
 note : still need to do some of more research!

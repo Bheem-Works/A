@@ -7,23 +7,23 @@
 
 ## Highlights
 
-- **Date : 08 october; 
+- **Date : 08 october;
 
 todo{
     nothing;
 }
 
 Event : [
-    daice win amount 30 
+    daice win amount 30
 ]**
 
 Tags: #journal
-Date : 08 october; 
+Date : 08 october;
 
 todo{
     nothing;
 }
 
 Event : [
-    daice win amount 30 
+    daice win amount 30
 ]

@@ -1,0 +1,72 @@
+Fixed trailing whitespace in 65 files
+
+File: the old file journal /Agust11th.md
+  Long lines (line, length, excerpt):
+    - 18: 232 chars - "so yeh there are lot;s of work that has been missing. i need to keep track but yeh i want to share my today thing;s and ..."
+
+File: the old file journal /october2.md
+  Long lines (line, length, excerpt):
+    - 6: 250 chars - "- u are fucking dumb i know ur fucking dumb tero dai le msg garerako thyo vai kata chau vnaera kam chaina kam araucha af..."
+
+File: the old file journal /Agust12th.md
+  Long lines (line, length, excerpt):
+    - 23: 209 chars - "I have a scar on my eyes and it's hurting me much more. Well i know about the work so i really need to read right. There..."
+
+File: the old file journal /october31.md
+  Possible typos: teh
+
+File: the old file journal /october14.md
+  Long lines (line, length, excerpt):
+    - 41: 262 chars - "i think react nai sikum jstai tara react siknu parcha ani feri frontend ko chai projects haru chai hunca feri tanai pani..."
+
+File: the old file journal /nov2.md
+  Long lines (line, length, excerpt):
+    - 218: 214 chars - "inoremap <silent><expr> <Tab> pumvisible() ? coc#_select_confirm() : coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#reques..."
+
+File: track/August27.md
+  Long lines (line, length, excerpt):
+    - 25: 271 chars - "Ma hijo rati tyestai 1 baje tirw nai sute hola for no reason. No reason bhanu bhdna nih 12 baje nai wrap gare sakeko thy..."
+    - 26: 744 chars - "CRS(cost reconilation statement) cha well. I found this as a easy chapter aja padhnu parne tara. Back to the topic ani m..."
+    - 28: 259 chars - "            ani tyesh pachi time here 05:51 vako thyo. And yeh mero faltu dimag le kinw yesto socho tyo bela ma vaudina ..."
+    - 30: 951 chars - "            tyesh pachi safari malai lagdyo chowk smw tyesh pachi feri hindai gaye ma college. Ma snga 50 thyo sayad ma ..."
+    - 33: 339 chars - "            jsri ma aile lekhdai chu. That't it tyesh pachi class xhire dhilo and yeh sathi ko bthd thyo so yeh dherai n..."
+
+File: track/August30th.md
+  Long lines (line, length, excerpt):
+    - 7: 268 chars - "- So aja chai malai k vayo bhnda nih ma brimai chu bhnda nih hunca khasma chai mero vocal issue cha ra ma vocally unprep..."
+
+File: track/September15.md
+  Long lines (line, length, excerpt):
+    - 205: 214 chars - "inoremap <silent><expr> <Tab> pumvisible() ? coc#_select_confirm() : coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#reques..."
+
+File: track/Agust15th.md
+  Long lines (line, length, excerpt):
+    - 7: 224 chars - "- Well today i am here to enjoy but i need to learn and read alright i am goint to break my streak and there are any cou..."
+
+File: track/August23rd.md
+  Long lines (line, length, excerpt):
+    - 35: 346 chars - "|-> Well elite means to be the best of the best giving all the best as you can and doing best that's what we call "elite..."
+
+File: track/Septemebr6.md
+  Long lines (line, length, excerpt):
+    - 38: 256 chars - "Free Writing => Today was a saturday. As usual i just think but i have not done that. So, what i have done is that i jus..."
+
+File: track/August31.md
+  Long lines (line, length, excerpt):
+    - 23: 216 chars - "Ma paila xito na xito uthe lagvagh tyestai 6:30 tirw nai vanum nah well, tyetro baje uthe because there were some works ..."
+    - 29: 322 chars - "8 baje tirw nai xirim bhnda hunca. Tyesh pachi token line thau ma token lim but tyako difficulty chai tyo token linu ko ..."
+    - 36: 203 chars - "The funny thing's :- Auta indian women thyo ani tyo women le chai khaana ya khanu milcha vanera maalai sodhekoko thyo an..."
+
+File: track/Agust1.md
+  Long lines (line, length, excerpt):
+    - 30: 252 chars - "**Breaking points** -> i just remeber the glimpse about that how can she cheat me? do she love me? why did she done that..."
+    - 33: 374 chars - "i think i  also need to do that. And then i will be also in that place where she were . And then i will also have  some ..."
+    - 42: 242 chars - "me. But you  are not doing what you are supposed to do. Taile tyai bata basera khushi dine kura dherai thyo but u never ..."
+    - 43: 254 chars - "I also have to forget you not forgive you this time. Mero maya sadhai sacho thyo rahanecha tara ma jslai grchu ho tyesle..."
+    - 44: 246 chars - "afule skne kura dinu skdaina ani cheat grnu skcha dhoka dinu skcha vane tyo relation ma jsto sacho maay bhayera nih kai ..."
+
+File: D/dec24.md
+  Long lines (line, length, excerpt):
+    - 20: 913 chars - "    So here's a funny things that I want to share with you and you may laugh you may feel it's so ridiculous so Today I ..."
+    - 33: 6986 chars - "    So here's a funny things that I want to share with you and you may laugh you may feel it's so ridiculous so Today I ..."
+

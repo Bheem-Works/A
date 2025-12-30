@@ -7,7 +7,7 @@
 
 ## Highlights
 
-- **From here it is : 
+- **From here it is :
 " Initialize vim-plug
 call plug#begin('~/.vim/plugged')
 Plug 'neoclide/coc.nvim', {'branch': 'release'}  " Auto-completion and LSP for JS/TS
@@ -20,20 +20,20 @@ Plug 'mxw/v**
 Tags: #journal
 📅 Date: [September - 15]
 
-[Tommorow is the day]; 
+[Tommorow is the day];
 [Finished the jujutus kaisen season 2 again];
 
 Reflection : [Nothing special just getting fursted with my self. And feel so tired today; For no reason. ]
-Gratitude : [I feel gratitude about i am doing thing's now what i realised]; 
+Gratitude : [I feel gratitude about i am doing thing's now what i realised];
 
 [! Tommorow is the day; I have told everything's like we are not keeping anything's hidden from our side]
 Mood: [😐]
 
-– I have written the journal where i have cleared  out my thought and the minds; 
+– I have written the journal where i have cleared  out my thought and the minds;
 
-And yeh i also put the neo vim plugins code. 
+And yeh i also put the neo vim plugins code.
 
-From here it is : 
+From here it is :
 " Initialize vim-plug
 call plug#begin('~/.vim/plugged')
 Plug 'neoclide/coc.nvim', {'branch': 'release'}  " Auto-completion and LSP for JS/TS
@@ -168,7 +168,7 @@ autocmd TermClose * if !&hidden | bd | endif
 nnoremap <leader>/ :nohlsearch<CR>
 nnoremap <Leader>rr :qa!<CR>:nvim<CR>
 nnoremap x :w<CR>:!node %<CR>
-" compile and run c file 
+" compile and run c file
 command! RunC w | split | terminal gcc % -o %:r.exe && %:r.exe
 nnoremap <C-Alt-n> :RunC<CR>
 nnoremap <Leader>z :RunC<CR>

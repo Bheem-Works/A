@@ -49,7 +49,7 @@ english(20 minutes) done;
 
 ## Agust 13th - wednesday;
 
-Computer(50 minutes); done;  
+Computer(50 minutes); done;
 Account(30 minutes) done;
 
 ## August 15th - firday;
@@ -58,7 +58,7 @@ all skipped;
 
 ## August 19th - Tuesday;
 
-Nepali : 30 minutes, Social:20 minutes;  
+Nepali : 30 minutes, Social:20 minutes;
 Account: 50 minutes,
 Economics: 50 minutes;
 Computer: yeet;;;
@@ -89,13 +89,13 @@ Social: nooohh...**
 - **Computer: 20 minutes;
 
 # August 29th - friday;
-Typing - 30 minutes; 
+Typing - 30 minutes;
 
-# August 30th - saturday; 
-English - 30 minutes; 
-Account - 50 minutes; 
-Economics - 50 minutes; 
-Computers - 40 minutes; 
+# August 30th - saturday;
+English - 30 minutes;
+Account - 50 minutes;
+Economics - 50 minutes;
+Computers - 40 minutes;
 Typing - 40 minutes
 Coding Projects - Xaina yaar kati choti skipp matra grnu yaar ma pani afai nai waakaa lage sake.**
 
@@ -108,13 +108,13 @@ Social: nooohh...
 Computer: 20 minutes;
 
 # August 29th - friday;
-Typing - 30 minutes; 
+Typing - 30 minutes;
 
-# August 30th - saturday; 
-English - 30 minutes; 
-Account - 50 minutes; 
-Economics - 50 minutes; 
-Computers - 40 minutes; 
+# August 30th - saturday;
+English - 30 minutes;
+Account - 50 minutes;
+Economics - 50 minutes;
+Computers - 40 minutes;
 Typing - 40 minutes
 Coding Projects - Xaina yaar kati choti skipp matra grnu yaar ma pani afai nai waakaa lage sake.
 Class -- Dsa

@@ -9,7 +9,7 @@
 
 - **📅 Date: [September - 14]
 
-[Clear up the storage]; 
+[Clear up the storage];
 
 Reflection : [Nothing special just getting fursted with my self.**
 - **And feel so tired today; For no reason.**
@@ -17,10 +17,10 @@ Reflection : [Nothing special just getting fursted with my self.**
 Tags: #journal
 📅 Date: [September - 14]
 
-[Clear up the storage]; 
+[Clear up the storage];
 
 Reflection : [Nothing special just getting fursted with my self. And feel so tired today; For no reason. ]
-Gratitude : [I feel gratitude about i am doing thing's now what i realised]; 
+Gratitude : [I feel gratitude about i am doing thing's now what i realised];
 
 Mood: [😭🥲]
 

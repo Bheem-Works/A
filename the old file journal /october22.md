@@ -7,26 +7,26 @@
 
 ## Highlights
 
-- **Date : 22 october wednesday; 
+- **Date : 22 october wednesday;
 
 Todolist :[
-    the phone take way 
-    no code today 
+    the phone take way
+    no code today
 ]
 
 Event:[
     watch the movie and the boom baam.**
 
 Tags: #journal
-Date : 22 october wednesday; 
+Date : 22 october wednesday;
 
 Todolist :[
-    the phone take way 
-    no code today 
+    the phone take way
+    no code today
 ]
 
 Event:[
-    watch the movie and the boom baam. 
+    watch the movie and the boom baam.
     The night is going to be awesome
 ]
 
