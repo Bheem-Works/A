@@ -1,3 +1,40 @@
+# October06
+
+
+## Summary
+
+- Date : ocotober 06 - monday;
+
+## Highlights
+
+- **Date : ocotober 06 - monday;
+
+Todo : [
+bath;
+js interview;
+journal;
+
+]
+
+event : [
+daice;
+tika;
+happy time;
+many of the photos;
+upload that in insta;
+went to the x sasurali;
+
+]
+
+grateful : [
+grateful about having a great time with the family;
+with the great people and with the great moment;
+]
+
+otherThing's are written in the handwritten journal;
+the felling's are the same waiting but didn't get the reply of the person whom i was waiting for.**
+
+Tags: #journal
 Date : ocotober 06 - monday;
 
 Todo : [

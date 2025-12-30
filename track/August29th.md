@@ -1,2 +1,17 @@
+# August29th
+
+
+## Summary
+
+- Today i just got a deep voice and i think this is the permanent voice that i am going to have.
+- haha it is funny by the way but it sound much more cool and sexy right.
+
+## Highlights
+
+- **Today i just got a deep voice and i think this is the permanent voice that i am going to have.**
+- **haha it is funny by the way
+but it sound much more cool and sexy right.**
+
+Tags: #journal
 Today i just got a deep voice and i think this is the permanent voice that i am going to have. haha it is funny by the way
-but it sound much more cool and sexy right. 
+but it sound much more cool and sexy right.

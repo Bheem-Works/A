@@ -1,3 +1,20 @@
+# Septmeber7
+
+
+## Summary
+
+- 📅 Date: [September - 7]
+
+## Highlights
+
+- **📅 Date: [September - 7]
+
+☑ To-Do List:
+-[Note and some homeworks and the account sections ]
+📝 Reflection:
+[Now, i fell nothign pure peace.**
+
+Tags: #journal
 📅 Date: [September - 7]
 
 ☑ To-Do List:
@@ -9,4 +26,3 @@
 [Yo,,,.. ]
 🎨 Creative:
 [😐]
-

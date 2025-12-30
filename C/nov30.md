@@ -1,10 +1,18 @@
-Date : november 30 
+# Nov30
+
+
+## Summary
+
+- Date : november 30
+
+## Highlights
+
+- **Date : november 30
 
 
 todolist : [
-    python ko todolist ko format herne ra sarne.
-
-    react ko one hour ko course 
+    python ko todolist ko format herne ra sarne.**
+- **react ko one hour ko course
 
     english ko homewokr
 
@@ -12,9 +20,28 @@ todolist : [
 
 ]
 
-# bo tah alchi matra lagcha k grnuu yo linuux ma tah jhan 
+# bo tah alchi matra lagcha k grnuu yo linuux ma tah jhan
 
-Python ko chai todolist project chai yesto prakar ko hunca. 
+Python ko chai todolist project chai yesto prakar ko hunca.**
+
+Tags: #journal
+Date : november 30
+
+
+todolist : [
+    python ko todolist ko format herne ra sarne.
+
+    react ko one hour ko course
+
+    english ko homewokr
+
+    economics ko padhnuu prne cha
+
+]
+
+# bo tah alchi matra lagcha k grnuu yo linuux ma tah jhan
+
+Python ko chai todolist project chai yesto prakar ko hunca.
 
 while True:
     prin("1. add ")
@@ -22,4 +49,4 @@ while True:
 
     user_input = input("Enter the task").strip()
 
-Let me paste it to the here. 
+Let me paste it to the here.

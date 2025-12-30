@@ -1,3 +1,18 @@
+# August28th
+
+
+## Summary
+
+- Date : 29th August thursday;
+
+## Highlights
+
+- **Date : 29th August thursday;
+
+Want to talk about my expenses And about my thing's.**
+- **First my day's goes kind of good With the some of the regret but it is alright.**
+
+Tags: #journal
 Date : 29th August thursday;
 
 Want to talk about my expenses And about my thing's.
