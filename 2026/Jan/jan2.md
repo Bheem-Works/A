@@ -1,12 +1,12 @@
-Date : Jan 2 
+<h2>Date : Jan 2 </h2>
 
 todolist : [
-    Read
-    book
+Read
+book
 ]
 
-
 Thing's which i have done today : [
+
     Read
     book
     study
