@@ -8,3 +8,10 @@ Event : [
         1. Math in economics
         2. Daigram in economics 
 ]
+
+Todolist : [
+    Social sections read [tick]
+    Daily video post [tick]
+    code [unTick]
+    Journal and write [Tick]
+]
