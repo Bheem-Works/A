@@ -1,5 +1,5 @@
-
 // There is not gcc id donwloaded to run the c file. 
+
 
 # include <stdio.h>
 int fibonacciSequence(int num);
