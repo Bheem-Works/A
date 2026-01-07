@@ -24,7 +24,8 @@ int main() {
       return 0
 
 
-    for(i = 0; i < n; i++) {i
+    for(i = 0; i < n; i++) {
+      
         printf("\n--- Student %d ---\n", i + 1);
 
         printf("Enter name: ");
