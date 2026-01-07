@@ -8,6 +8,7 @@ struct Student {
 
 int main() {
     int n, i;
+    file *fp;
 
     printf("Enter number of students: ");
     scanf("%d", &n);
@@ -15,7 +16,15 @@ int main() {
     // ARRAY SIZE USING n
     struct Student s[n];
 
-    for(i = 0; i < n; i++) {
+
+    fp = fopen("student.txt","w");
+
+    if fp == NULL
+      printf("error opening file")  
+      return 0
+
+
+    for(i = 0; i < n; i++) {i
         printf("\n--- Student %d ---\n", i + 1);
 
         printf("Enter name: ");
