@@ -71,54 +71,6 @@ Nepali/social: none;
 Computer: none;
 Account: none;
 
-<<<<<<< Updated upstream
-# August 28th - Thursday;
-
-## Summary
-
-- English : 50 minutes; Nepali : 40 minutes; Account: 20 minutes; Economics: 10 minutes; Social: nooohh...
-- Computer: 20 minutes;
-
-## Highlights
-
-- **English : 50 minutes;
-Nepali : 40 minutes;
-Account: 20 minutes;
-Economics: 10 minutes;
-Social: nooohh...**
-- **Computer: 20 minutes;
-
-# August 29th - friday;
-Typing - 30 minutes;
-
-# August 30th - saturday;
-English - 30 minutes;
-Account - 50 minutes;
-Economics - 50 minutes;
-Computers - 40 minutes;
-Typing - 40 minutes
-Coding Projects - Xaina yaar kati choti skipp matra grnu yaar ma pani afai nai waakaa lage sake.**
-
-Tags: #journal
-English : 50 minutes;
-Nepali : 40 minutes;
-Account: 20 minutes;
-Economics: 10 minutes;
-Social: nooohh...
-Computer: 20 minutes;
-
-# August 29th - friday;
-Typing - 30 minutes;
-
-# August 30th - saturday;
-English - 30 minutes;
-Account - 50 minutes;
-Economics - 50 minutes;
-Computers - 40 minutes;
-Typing - 40 minutes
-Coding Projects - Xaina yaar kati choti skipp matra grnu yaar ma pani afai nai waakaa lage sake.
-Class -- Dsa
-=======
 # August 27th - Thursday;
 
 English : 50 minutes;
@@ -127,4 +79,3 @@ Account:
 Economics:
 Social:
 Computer:
->>>>>>> Stashed changes

@@ -1,46 +1,46 @@
-The story about value of the tears;
+    The story about value of the tears;
 
-[
-Mero lagi runu bhaneko dukhi hunu ko nishani jstai thyo
-tara runu tah dukha lai janu dinu raicha.
-hami sanga dherai jaso hune grdacha haina ?
-Yo maan dukhda, chaye ko kura na huda, dukha huda
-ashuu bagne garda cha,
-ie sadharan ashu ko mulya k tha malai tie bela.
-Jaba smw maile timra ankha ma ashu bageko dekhina
-timi royeko dekhina maile ashu ko kimmat nai bujhina.
-Maile ashu bhitra auta katha hunca bhane kura nai tha payena.
+    [
+        Mero lagi runu bhaneko dukhi hunu ko nishani jstai thyo
+        tara runu tah dukha lai janu dinu raicha.
+        hami sanga dherai jaso hune grdacha haina ?
+        Yo maan dukhda, chaye ko kura na huda, dukha huda
+        ashuu bagne garda cha,
+        ie sadharan ashu ko mulya k tha malai tie bela.
+        Jaba smw maile timra ankha ma ashu bageko dekhina
+        timi royeko dekhina maile ashu ko kimmat nai bujhina.
+        Maile ashu bhitra auta katha hunca bhane kura nai tha payena.
 
-     Timi royeko tyo din samjhida malai ajai timro bare chinta lagera aucha.
-     Timile royeko bela bhaneko kura haru ko yaad aucha.
-     Tyo hamro huna sakne bhawiswa ko pani jhaljhalko  aucha.
+        Timi royeko tyo din samjhida malai ajai timro bare chinta lagera aucha.
+        Timile royeko bela bhaneko kura haru ko yaad aucha.
+        Tyo hamro huna sakne bhawiswa ko pani jhaljhalko  aucha.
 
-     Na jane maile kati choti royeko  aruldekhi holaa.
-     Afu pani kati roye hola tara tyo runu paxadi ko karan tyo paxadi ko katha kaile dekhina
-     jun timro roaye ma dekhe.
+        Na jane maile kati choti royeko  aruldekhi holaa.
+        Afu pani kati roye hola tara tyo runu paxadi ko karan tyo paxadi ko katha kaile dekhina
+        jun timro roaye ma dekhe.
 
-     Tyo bela mero maan chasanka bhayo ashu timro bage pani
-     maan mero rujdai thyo
-     timi rudai gareko awaaj ko swaar bistari sundai thyo
-     timro royeko awaaj le mero maan bijdai thyo
-     mero maaan tyo bela chaskie raheko thyo.
-     jstai dherai beer smw basda haat khuta nidaye jstai
-     timro katha sunda mero maan pani tyestai nai vayeko thyo.
+        Tyo bela mero maan chasanka bhayo ashu timro bage pani
+        maan mero rujdai thyo
+        timi rudai gareko awaaj ko swaar bistari sundai thyo
+        timro royeko awaaj le mero maan bijdai thyo
+        mero maaan tyo bela chaskie raheko thyo.
+        jstai dherai beer smw basda haat khuta nidaye jstai
+        timro katha sunda mero maan pani tyestai nai vayeko thyo.
 
 
-     timile rudai afno bare savai bataikie theu
-     timi kati ko eklai cheu bhanera.
-     timile paune maya ra khushi ko hakdaar timi kinw chainau ?
-     tyo dukkha bektya greko theu.
-     Mero agadi savai kura rokiye jstai,
-     timro kura sundai timro katha vitra nai haraye  jstai.
-     Timile le bhaneko harek sabda yo maan le kalpidai thyo.
-     Mero maya yeti saro eklo chin bhanera dukha maandai thyo.
-     timro otha bata sabda khasdai thyo ra tyai sanga timro ankha bata ashu gala tira sardai thyo tie ashu gala mai na adkera timro otha sama bagdai thyo ra timro otha lai bhijaudai thyo.
-     Ma gharida purwaak timi tira herdai thiye
-     timro katha lai sundai thye.
-     Maile kai jane na tyo bela.
-     k grne k bolne vanera
+        timile rudai afno bare savai bataikie theu
+        timi kati ko eklai cheu bhanera.
+        timile paune maya ra khushi ko hakdaar timi kinw chainau ?
+        tyo dukkha bektya greko theu.
+        Mero agadi savai kura rokiye jstai,
+        timro kura sundai timro katha vitra nai haraye  jstai.
+        Timile le bhaneko harek sabda yo maan le kalpidai thyo.
+        Mero maya yeti saro eklo chin bhanera dukha maandai thyo.
+        timro otha bata sabda khasdai thyo ra tyai sanga timro ankha bata ashu gala tira sardai thyo tie ashu gala mai na adkera timro otha sama bagdai thyo ra timro otha lai bhijaudai thyo.
+        Ma gharida purwaak timi tira herdai thiye
+        timro katha lai sundai thye.
+        Maile kai jane na tyo bela.
+        k grne k bolne vanera
 
 
         k bhanu tyo bela tha thyena tara k sune tyo savai thacha
@@ -165,5 +165,4 @@ Maile ashu bhitra auta katha hunca bhane kura nai tha payena.
         Abo afno bhane jatauchu bhane saahas ayo.
         yo maan khushi hudai afno thau farkiyo.
         yo maanche feri gau farkiyo.
-
-]
+    ]
